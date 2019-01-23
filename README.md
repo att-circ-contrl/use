@@ -1,1 +1,1 @@
-# use
+USE (Unified Suite for Experiments) is a complete software and hardware suite for the development, control, and preliminary analysis of dynamic, video-game-like behavioural neuroscience experiments. The scripts available here include the USE_Core, which extend the functionality of the Unity video game engine to support USE, a set of tutorial examples, and will eventually include Matlab parsing and analysis scripts.
