@@ -18,7 +18,7 @@ under the terms of the MIT license (per the `LICENSE` file).
 
 Primary components:
 
-* `USE_Core.unitypackage` -- Unity scripts implementing USE.
+* `USE_Core.unitypackage` -- A package containing all USE scripts, to be imported directly into Unity.
 * `python_ai.zip` -- AI wrapper for USE.
 
 Documentation:
