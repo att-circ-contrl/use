@@ -9,7 +9,7 @@ video-game-like behavioural neuroscience experiments.
 The scripts available here include the USE_Core, which extend the
 functionality of the Unity video game engine to support USE, a set of
 tutorial examples, and will eventually include Matlab parsing and analysis
-scripts.
+scripts. See the wiki for tutorials and overviews.
 
 This project is copyright 2018 by Vanderbilt University, and is distributed
 under the terms of the MIT license (per the `LICENSE` file).
@@ -23,10 +23,8 @@ Primary components:
 
 Documentation:
 
-* `USE Tutorials.pdf` --
-User guide and tutorials for making USE-based experiments.
 * `USE_Tutorials_examples.unitypackage` --
-Example code referenced by the user guide.
+Example code referenced by the wiki tutorial.
 
 Auxiliary material:
 
