@@ -8,7 +8,7 @@ video-game-like behavioural neuroscience experiments.
 
 The scripts available here include the USE_Core, which extend the
 functionality of the Unity video game engine to support USE, a set of
-tutorial examples, and will eventually include Matlab parsing and analysis
+tutorial examples, and Matlab parsing and analysis
 scripts. See the wiki for tutorials and overviews.
 
 This project is copyright 2018 by Vanderbilt University, and is distributed
@@ -20,6 +20,7 @@ Primary components:
 
 * `USE_Core.unitypackage` -- A package containing all USE scripts, to be imported directly into Unity.
 * `python_ai.zip` -- AI wrapper for USE.
+* `USE_Analysis`. -- A set of scripts for importing USE data files into Matlab.
 
 Documentation:
 
